@@ -1,6 +1,3 @@
-// document.getElementById("count_exercise").innerText = 2
-// document.getElementById("count_set").innerText = 3
-
 let pushExercises = 0
 let pullExercises = 0
 let legExercises = 0
